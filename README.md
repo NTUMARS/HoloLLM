@@ -57,11 +57,11 @@ sudo apt install openjdk-11-jre-headless
 
 1. Universal Modality-Injection Projector (UMIP) of HoloLLM.
 
-    Download the checkpoints of [UMIP]((https://drive.google.com/drive/folders/1yW_o8FgikuaKMHFrycVBM2BBQxoXNlxW?usp=drive_link)) and store them into *./checkpoints*.
+    Download the checkpoints of [UMIP](https://drive.google.com/drive/folders/1yW_o8FgikuaKMHFrycVBM2BBQxoXNlxW?usp=drive_link) and store them in *./checkpoints*.
 
 2. Modality-Specific Tailored Encoders.
 
-    Download the checkpoints of [modality-specific tailored encoders](https://drive.google.com/file/d/1ogH9stkAirfTS912Me5n-8MM9zjjphKC/view?usp=drive_link) and store them into *./modality_specific_encoders*.
+    Download the checkpoints of [modality-specific tailored encoders](https://drive.google.com/file/d/1ogH9stkAirfTS912Me5n-8MM9zjjphKC/view?usp=drive_link) and store them in *./modality_specific_encoders*.
 
 3. LLaMA2-7B
 
