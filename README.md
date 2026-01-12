@@ -159,6 +159,7 @@ sudo apt install openjdk-11-jre-headless
     
 
 2. Evaluate HoloLLM on XRF55
+   
     Take "Random" setting as an example. Change the settings in *./eval/holollm_eval_xrf55.py*
     ```python
     # line 285
